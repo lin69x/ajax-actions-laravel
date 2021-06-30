@@ -6,7 +6,7 @@ AJAX actions for Laravel. data-attribute
 
 
 
-data-request
+<b>data-request</b>
 
 определяет куда будет отправлен запрос через AJAX
 
