@@ -2,7 +2,7 @@
 AJAX actions for Laravel. data-attribute
 Работает с любыми html-элементами
 
-В блоке <head></head> должен быть прописан мета-тег <code><meta name="csrf-token" content="ТОКЕН"></code>
+В блоке <head></head> должен быть прописан мета-тег <i>csrf-token</i>
 <br>
 
 
